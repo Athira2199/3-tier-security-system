@@ -1,11 +1,11 @@
 # 3-tier-security-system
-###ADMIN
+### ADMIN
 ```
 An admin can add users to the system.
 Whenever an admin adds a user a folder will be automatically created for the user and the
 images reuired for training can be added to it.
 ```
-###USERS
+### USERS
 ```
 This system authenticates each of its users using three stages.
 
