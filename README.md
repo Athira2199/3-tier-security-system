@@ -1,4 +1,11 @@
 # 3-tier-security-system
+###ADMIN
+```
+An admin can add users to the system.
+Whenever an admin adds a user a folder will be automatically created for the user and the
+images reuired for training can be added to it.
+```
+###USERS
 ```
 This system authenticates each of its users using three stages.
 
@@ -18,5 +25,6 @@ He/she is required to add this otp in the otp field to pass this stage.
 
 STAGE 3
 ------------------
-Once the user has successfully passed the second stage the face recognition part starts running automatically.It then checks if the logged in user and recognized face are same.If yes then it will grant access.
+Once the user has successfully passed the second stage the face recognition part starts running automatically.
+It then checks if the logged in user and recognized face are same.If yes then it will grant access.
 ```
