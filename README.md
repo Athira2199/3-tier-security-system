@@ -3,7 +3,7 @@
 ```
 An admin can add users to the system.
 Whenever an admin adds a user a folder will be automatically created for the user and the
-images reuired for training can be added to it.
+images required for training can be added to it.
 ```
 ### USERS
 ```
