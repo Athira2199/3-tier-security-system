@@ -9,7 +9,7 @@ images required for training can be added to it.
 ```
 This system authenticates each of its users using three stages.
 
-   1.Stage 1 beign the login stage
+   1.Stage 1 begin the login stage
    2.Stage 2 the otp stage
    3.Stage 3 the face recognition stage
 ```
